@@ -6,3 +6,7 @@
 ## Summary
 
 This repository contains all of the notes taken by [Yves Desjardins](https://github.com/DesjardyCA) for the [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
+
+## Table Of Contents
+* Week 1
+  * Day 1
